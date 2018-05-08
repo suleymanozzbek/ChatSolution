@@ -1,0 +1,38 @@
+﻿@model WebApp.Models.AddUserModel
+@{Layout = "~/Views/Shared/_Layout.cshtml";}
+
+
+
+    <div>
+        @using (Html.BeginForm("CreateUser", "Home", FormMethod.Post, new { @class = "form-horizontal" }))
+        {
+
+        <div class="form-group">
+            <div class="col-lg-2">
+                Kullanıcı Adı
+            </div>
+            <div class="col-lg-10">
+                @Html.TextBoxFor(x => x.username, new { @class = "form-control", @placeholder = "Kullanıcı adı" })
+
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-lg-2">
+                Şifre
+            </div>
+            <div class="col-lg-10">
+                @Html.PasswordFor(x => x.password, new { @class = "form-control", @placeholder = "Şifre" })
+
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-lg-2">
+                 
+            </div>
+            <div class="col-lg-10">
+                <input type="submit" value="Kaydet" class="btn btn-primary btn-block" />
+            </div>
+        </div>
+        }
+    </div>
+

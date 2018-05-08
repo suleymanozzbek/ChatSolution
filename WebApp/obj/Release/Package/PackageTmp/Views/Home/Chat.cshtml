@@ -1,0 +1,169 @@
+﻿@model List<DataAccess.MvcUsers>
+
+@{Layout = "~/Views/Shared/_Layout.cshtml";}
+
+<script>
+    $(function () {
+        $("#addClass").click(function () {
+            $('#qnimate').addClass('popup-box-on');
+        });
+
+        $("#removeClass").click(function () {
+            $('#qnimate').removeClass('popup-box-on');
+        });
+    })
+
+  
+
+    var pkID = '@Session["pkID"]';
+
+    $(function () {
+        var chat = $.connection.chatHub;
+        $("#divChat").hide();
+
+        $("#divAdmin").hide();
+
+
+        var $username = $('#hUserName');
+        var $name = '@(Session["userName"].ToString())';
+        var $message = $('#txtMessage');
+        var $msgBy = $('#hUserId');
+        var $msgTo = $('#hUserId');
+        var $messages = $('#messages');
+        $message.focus();
+        debugger;
+        chat.client.sendMessage = function (name, message, date, time) {
+            $messages.append('<div class="chat-box-single-line">' + '<abbr class="timestamp">' + date + '</abbr>' + '</div>' + '<div class="direct-chat-msg doted-border">' + '<div class="direct-chat-info clearfix">' + '<span style="color:White;" class="direct-chat-name pull-left">' + name + '</span> </div></div>' + '<img alt="message user image" src="http://bootsnipp.com/img/avatars/bcf1c0d13e5500875fdd5a7e8ad9752ee16e7462.jpg" class="direct-chat-img">' + '<div class="direct-chat-text"> ' + message + '  <div class="direct-chat-info clearfix"></div></div>' + '<span class="direct-chat-timestamp pull-right">' + time + '</span></div>' + '</div>' + '</div>' + '</div>');
+        };
+        $.connection.hub.start().done(function () {
+            $('#btnSendMessage').click(function () {
+
+                chat.server.send($name, $msgBy.val(), $msgTo.val(), $message.val());
+
+                $message.val('').focus();
+            });
+        });
+
+
+        if (pkID > 0) {
+            $('#hUserId').val(pkID);
+            //  var chat = $.connection.chatHub;
+            $("#divChat").show();
+            $("#divLogin").hide();
+            if (pkID == 2)
+                $("#divAdmin").show();
+            else
+                $("#divAdmin").hide();
+            var strWelcome = 'Welcome' + +name;
+            $('#welcome').append('<div><p>Welcome:' + name + '</p></div>');
+
+
+
+        }
+        else {
+            window.location.href = "Login";
+        }
+
+
+
+    });
+</script>
+<div>
+   
+    <div id="divChat">
+        <div id="divAdmin">
+
+            <a href="@Url.Action("CreateUser","Home")"><span class="glyphicon glyphicon-plus-sign"></span> Create User </a>
+        </div>
+        <div class="">
+            <a href="#" id="addClass"><span class="glyphicon glyphicon-comment"></span> Open in chat </a>
+
+        </div>
+
+
+
+    </div>
+    <h2>Userlist</h2>
+    <div>
+
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Username</th>
+                    <th>*</th>
+
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var user in Model)
+                {
+                <tr>
+                    <td>
+                        <a href="@Url.Action("EditUser","Home",new {id=user.pkID })">@user.UserName </a>
+                    </td>
+                    <td>
+                        <a href="@Url.Action("DeleteUser","Home",new {id=user.pkID })">Sil</a>
+                    </td>
+
+                </tr>
+
+
+
+                }
+
+
+            </tbody>
+        </table>
+
+    </div>
+
+
+
+
+    <div class="popup-box chat-popup" id="qnimate">
+        <div class="popup-head">
+            <div class="popup-head-left pull-left"><img src="http://bootsnipp.com/img/avatars/bcf1c0d13e5500875fdd5a7e8ad9752ee16e7462.jpg" alt="iamgurdeeposahan"> Chat Room</div>
+            <div class="popup-head-right pull-right">
+
+
+                <button data-widget="remove" id="removeClass" class="chat-header-button pull-right" type="button"><i class="glyphicon glyphicon-off"></i></button>
+            </div>
+        </div>
+        <div class="popup-messages">
+
+
+
+
+            <div class="direct-chat-messages">
+                <div id="messages" class="panel-primary"></div>
+
+            </div>
+
+
+
+
+
+
+
+
+
+        </div>
+        <div class="popup-messages-footer">
+
+            <label for="txtMessage"> </label> @Html.TextBox("txtMessage", null, new { id = "txtMessage", @class = "form-control" }) <button class="btn btn-success btn-block" id="btnSendMessage">Send</button>
+
+            <div class="btn-footer">
+
+                Developed by <a href="mailto:suleymanozzbek@outlook.com">Süleyman Özbek</a>
+            </div>
+        </div>
+    </div>
+
+    <input id="hUserId" type="hidden" />
+    <input id="hUserName" type="hidden" />
+
+
+</div>
+
+
+

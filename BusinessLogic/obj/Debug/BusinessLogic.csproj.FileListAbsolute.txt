@@ -1,0 +1,39 @@
+c:\users\suleyman.ozbek\documents\visual studio 2015\Projects\ChatSolution\BusinessLogic\bin\Debug\BusinessLogic.dll.config
+c:\users\suleyman.ozbek\documents\visual studio 2015\Projects\ChatSolution\BusinessLogic\bin\Debug\BusinessLogic.dll
+c:\users\suleyman.ozbek\documents\visual studio 2015\Projects\ChatSolution\BusinessLogic\bin\Debug\BusinessLogic.pdb
+c:\users\suleyman.ozbek\documents\visual studio 2015\Projects\ChatSolution\BusinessLogic\bin\Debug\DataAccess.dll
+c:\users\suleyman.ozbek\documents\visual studio 2015\Projects\ChatSolution\BusinessLogic\bin\Debug\EntityFramework.dll
+c:\users\suleyman.ozbek\documents\visual studio 2015\Projects\ChatSolution\BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\suleyman.ozbek\documents\visual studio 2015\Projects\ChatSolution\BusinessLogic\bin\Debug\DataAccess.pdb
+c:\users\suleyman.ozbek\documents\visual studio 2015\Projects\ChatSolution\BusinessLogic\bin\Debug\EntityFramework.xml
+c:\users\suleyman.ozbek\documents\visual studio 2015\Projects\ChatSolution\BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\suleyman.ozbek\documents\visual studio 2015\Projects\ChatSolution\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+c:\users\suleyman.ozbek\documents\visual studio 2015\Projects\ChatSolution\BusinessLogic\obj\Debug\BusinessLogic.dll
+c:\users\suleyman.ozbek\documents\visual studio 2015\Projects\ChatSolution\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\Furkan\Desktop\ChatSolution\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\Furkan\Desktop\ChatSolution\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\ChatSolution\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\Furkan\Desktop\ChatSolution\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\Furkan\Desktop\ChatSolution\BusinessLogic\bin\Debug\BusinessLogic.dll.config
+C:\Users\Furkan\Desktop\ChatSolution\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\Furkan\Desktop\ChatSolution\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\Furkan\Desktop\ChatSolution\BusinessLogic\bin\Debug\DataAccess.dll
+C:\Users\Furkan\Desktop\ChatSolution\BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\Furkan\Desktop\ChatSolution\BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Furkan\Desktop\ChatSolution\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\Furkan\Desktop\ChatSolution\BusinessLogic\bin\Debug\DataAccess.dll.config
+C:\Users\Furkan\Desktop\ChatSolution\BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\Furkan\Desktop\ChatSolution\BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Furkan\Desktop\ChatSolution\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\BusinessLogic\bin\Debug\BusinessLogic.dll.config
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\BusinessLogic\bin\Debug\DataAccess.dll
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\BusinessLogic\obj\Debug\BusinessLogic.pdb

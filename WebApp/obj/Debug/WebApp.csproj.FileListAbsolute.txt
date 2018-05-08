@@ -1,0 +1,166 @@
+c:\users\suleyman.ozbek\documents\visual studio 2015\Projects\ChatSolution\WebApp\bin\roslyn\csc.exe
+c:\users\suleyman.ozbek\documents\visual studio 2015\Projects\ChatSolution\WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\suleyman.ozbek\documents\visual studio 2015\Projects\ChatSolution\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\suleyman.ozbek\documents\visual studio 2015\Projects\ChatSolution\WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\suleyman.ozbek\documents\visual studio 2015\Projects\ChatSolution\WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\suleyman.ozbek\documents\visual studio 2015\Projects\ChatSolution\WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\suleyman.ozbek\documents\visual studio 2015\Projects\ChatSolution\WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\suleyman.ozbek\documents\visual studio 2015\Projects\ChatSolution\WebApp\bin\roslyn\System.Collections.Immutable.dll
+c:\users\suleyman.ozbek\documents\visual studio 2015\Projects\ChatSolution\WebApp\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\suleyman.ozbek\documents\visual studio 2015\Projects\ChatSolution\WebApp\bin\roslyn\vbc.exe
+c:\users\suleyman.ozbek\documents\visual studio 2015\Projects\ChatSolution\WebApp\bin\roslyn\VBCSCompiler.exe
+c:\users\suleyman.ozbek\documents\visual studio 2015\Projects\ChatSolution\WebApp\bin\roslyn\VBCSCompiler.exe.config
+c:\users\suleyman.ozbek\documents\visual studio 2015\Projects\ChatSolution\WebApp\bin\WebApp.dll.config
+c:\users\suleyman.ozbek\documents\visual studio 2015\Projects\ChatSolution\WebApp\bin\WebApp.dll
+c:\users\suleyman.ozbek\documents\visual studio 2015\Projects\ChatSolution\WebApp\bin\WebApp.pdb
+c:\users\suleyman.ozbek\documents\visual studio 2015\Projects\ChatSolution\WebApp\bin\EntityFramework.dll
+c:\users\suleyman.ozbek\documents\visual studio 2015\Projects\ChatSolution\WebApp\bin\EntityFramework.SqlServer.dll
+c:\users\suleyman.ozbek\documents\visual studio 2015\Projects\ChatSolution\WebApp\bin\Microsoft.AspNet.SignalR.Core.dll
+c:\users\suleyman.ozbek\documents\visual studio 2015\Projects\ChatSolution\WebApp\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+c:\users\suleyman.ozbek\documents\visual studio 2015\Projects\ChatSolution\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\suleyman.ozbek\documents\visual studio 2015\Projects\ChatSolution\WebApp\bin\Microsoft.Owin.dll
+c:\users\suleyman.ozbek\documents\visual studio 2015\Projects\ChatSolution\WebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\suleyman.ozbek\documents\visual studio 2015\Projects\ChatSolution\WebApp\bin\Microsoft.Owin.Security.dll
+c:\users\suleyman.ozbek\documents\visual studio 2015\Projects\ChatSolution\WebApp\bin\Microsoft.Web.Infrastructure.dll
+c:\users\suleyman.ozbek\documents\visual studio 2015\Projects\ChatSolution\WebApp\bin\Newtonsoft.Json.dll
+c:\users\suleyman.ozbek\documents\visual studio 2015\Projects\ChatSolution\WebApp\bin\Owin.dll
+c:\users\suleyman.ozbek\documents\visual studio 2015\Projects\ChatSolution\WebApp\bin\System.Web.Helpers.dll
+c:\users\suleyman.ozbek\documents\visual studio 2015\Projects\ChatSolution\WebApp\bin\System.Web.Mvc.dll
+c:\users\suleyman.ozbek\documents\visual studio 2015\Projects\ChatSolution\WebApp\bin\System.Web.Razor.dll
+c:\users\suleyman.ozbek\documents\visual studio 2015\Projects\ChatSolution\WebApp\bin\System.Web.Webpages.Deployment.dll
+c:\users\suleyman.ozbek\documents\visual studio 2015\Projects\ChatSolution\WebApp\bin\System.Web.Webpages.dll
+c:\users\suleyman.ozbek\documents\visual studio 2015\Projects\ChatSolution\WebApp\bin\System.Web.Webpages.Razor.dll
+c:\users\suleyman.ozbek\documents\visual studio 2015\Projects\ChatSolution\WebApp\bin\EntityFramework.xml
+c:\users\suleyman.ozbek\documents\visual studio 2015\Projects\ChatSolution\WebApp\bin\EntityFramework.SqlServer.xml
+c:\users\suleyman.ozbek\documents\visual studio 2015\Projects\ChatSolution\WebApp\bin\Microsoft.AspNet.SignalR.Core.xml
+c:\users\suleyman.ozbek\documents\visual studio 2015\Projects\ChatSolution\WebApp\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+c:\users\suleyman.ozbek\documents\visual studio 2015\Projects\ChatSolution\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\suleyman.ozbek\documents\visual studio 2015\Projects\ChatSolution\WebApp\bin\Microsoft.Owin.xml
+c:\users\suleyman.ozbek\documents\visual studio 2015\Projects\ChatSolution\WebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\suleyman.ozbek\documents\visual studio 2015\Projects\ChatSolution\WebApp\bin\Microsoft.Owin.Security.xml
+c:\users\suleyman.ozbek\documents\visual studio 2015\Projects\ChatSolution\WebApp\bin\Newtonsoft.Json.xml
+c:\users\suleyman.ozbek\documents\visual studio 2015\Projects\ChatSolution\WebApp\bin\System.Web.Razor.xml
+c:\users\suleyman.ozbek\documents\visual studio 2015\Projects\ChatSolution\WebApp\bin\System.Web.Webpages.xml
+c:\users\suleyman.ozbek\documents\visual studio 2015\Projects\ChatSolution\WebApp\bin\System.Web.Webpages.Deployment.xml
+c:\users\suleyman.ozbek\documents\visual studio 2015\Projects\ChatSolution\WebApp\bin\System.Web.Webpages.Razor.xml
+c:\users\suleyman.ozbek\documents\visual studio 2015\Projects\ChatSolution\WebApp\bin\System.Web.Helpers.xml
+c:\users\suleyman.ozbek\documents\visual studio 2015\Projects\ChatSolution\WebApp\bin\System.Web.Mvc.xml
+c:\users\suleyman.ozbek\documents\visual studio 2015\Projects\ChatSolution\WebApp\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
+c:\users\suleyman.ozbek\documents\visual studio 2015\Projects\ChatSolution\WebApp\obj\Debug\WebApp.dll
+c:\users\suleyman.ozbek\documents\visual studio 2015\Projects\ChatSolution\WebApp\obj\Debug\WebApp.pdb
+c:\users\suleyman.ozbek\documents\visual studio 2015\Projects\ChatSolution\WebApp\bin\BusinessLogic.dll
+c:\users\suleyman.ozbek\documents\visual studio 2015\Projects\ChatSolution\WebApp\bin\BusinessLogic.pdb
+c:\users\suleyman.ozbek\documents\visual studio 2015\Projects\ChatSolution\WebApp\bin\DataAccess.dll
+c:\users\suleyman.ozbek\documents\visual studio 2015\Projects\ChatSolution\WebApp\bin\DataAccess.pdb
+C:\Users\Furkan\Desktop\ChatSolution\WebApp\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
+C:\Users\Furkan\Desktop\ChatSolution\WebApp\obj\Debug\WebApp.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\ChatSolution\WebApp\obj\Debug\WebApp.dll
+C:\Users\Furkan\Desktop\ChatSolution\WebApp\obj\Debug\WebApp.pdb
+C:\Users\Furkan\Desktop\ChatSolution\WebApp\bin\roslyn\csc.exe
+C:\Users\Furkan\Desktop\ChatSolution\WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Furkan\Desktop\ChatSolution\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Furkan\Desktop\ChatSolution\WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Furkan\Desktop\ChatSolution\WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Furkan\Desktop\ChatSolution\WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Furkan\Desktop\ChatSolution\WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Furkan\Desktop\ChatSolution\WebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Furkan\Desktop\ChatSolution\WebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Furkan\Desktop\ChatSolution\WebApp\bin\roslyn\vbc.exe
+C:\Users\Furkan\Desktop\ChatSolution\WebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Furkan\Desktop\ChatSolution\WebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Furkan\Desktop\ChatSolution\WebApp\bin\WebApp.dll.config
+C:\Users\Furkan\Desktop\ChatSolution\WebApp\bin\WebApp.dll
+C:\Users\Furkan\Desktop\ChatSolution\WebApp\bin\WebApp.pdb
+C:\Users\Furkan\Desktop\ChatSolution\WebApp\bin\BusinessLogic.dll
+C:\Users\Furkan\Desktop\ChatSolution\WebApp\bin\DataAccess.dll
+C:\Users\Furkan\Desktop\ChatSolution\WebApp\bin\EntityFramework.dll
+C:\Users\Furkan\Desktop\ChatSolution\WebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Furkan\Desktop\ChatSolution\WebApp\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Furkan\Desktop\ChatSolution\WebApp\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Furkan\Desktop\ChatSolution\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Furkan\Desktop\ChatSolution\WebApp\bin\Microsoft.Owin.dll
+C:\Users\Furkan\Desktop\ChatSolution\WebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Furkan\Desktop\ChatSolution\WebApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Furkan\Desktop\ChatSolution\WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Furkan\Desktop\ChatSolution\WebApp\bin\Newtonsoft.Json.dll
+C:\Users\Furkan\Desktop\ChatSolution\WebApp\bin\Owin.dll
+C:\Users\Furkan\Desktop\ChatSolution\WebApp\bin\System.Web.Helpers.dll
+C:\Users\Furkan\Desktop\ChatSolution\WebApp\bin\System.Web.Mvc.dll
+C:\Users\Furkan\Desktop\ChatSolution\WebApp\bin\System.Web.Razor.dll
+C:\Users\Furkan\Desktop\ChatSolution\WebApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Furkan\Desktop\ChatSolution\WebApp\bin\System.Web.Webpages.dll
+C:\Users\Furkan\Desktop\ChatSolution\WebApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\Furkan\Desktop\ChatSolution\WebApp\bin\BusinessLogic.pdb
+C:\Users\Furkan\Desktop\ChatSolution\WebApp\bin\BusinessLogic.dll.config
+C:\Users\Furkan\Desktop\ChatSolution\WebApp\bin\DataAccess.pdb
+C:\Users\Furkan\Desktop\ChatSolution\WebApp\bin\DataAccess.dll.config
+C:\Users\Furkan\Desktop\ChatSolution\WebApp\bin\EntityFramework.xml
+C:\Users\Furkan\Desktop\ChatSolution\WebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Furkan\Desktop\ChatSolution\WebApp\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Furkan\Desktop\ChatSolution\WebApp\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Furkan\Desktop\ChatSolution\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Furkan\Desktop\ChatSolution\WebApp\bin\Microsoft.Owin.xml
+C:\Users\Furkan\Desktop\ChatSolution\WebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Furkan\Desktop\ChatSolution\WebApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Furkan\Desktop\ChatSolution\WebApp\bin\Newtonsoft.Json.xml
+C:\Users\Furkan\Desktop\ChatSolution\WebApp\bin\System.Web.Razor.xml
+C:\Users\Furkan\Desktop\ChatSolution\WebApp\bin\System.Web.Webpages.xml
+C:\Users\Furkan\Desktop\ChatSolution\WebApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Furkan\Desktop\ChatSolution\WebApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\Furkan\Desktop\ChatSolution\WebApp\bin\System.Web.Helpers.xml
+C:\Users\Furkan\Desktop\ChatSolution\WebApp\bin\System.Web.Mvc.xml
+C:\Users\Furkan\Desktop\ChatSolution\WebApp\obj\Debug\WebApp.csproj.CopyComplete
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\WebApp\bin\roslyn\csc.exe
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\WebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\WebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\WebApp\bin\roslyn\vbc.exe
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\WebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\WebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\WebApp\bin\WebApp.dll.config
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\WebApp\bin\WebApp.dll
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\WebApp\bin\WebApp.pdb
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\WebApp\bin\BusinessLogic.dll
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\WebApp\bin\DataAccess.dll
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\WebApp\bin\EntityFramework.dll
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\WebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\WebApp\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\WebApp\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\WebApp\bin\Microsoft.Owin.dll
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\WebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\WebApp\bin\Microsoft.Owin.Security.dll
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\WebApp\bin\Newtonsoft.Json.dll
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\WebApp\bin\Owin.dll
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\WebApp\bin\System.Web.Helpers.dll
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\WebApp\bin\System.Web.Mvc.dll
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\WebApp\bin\System.Web.Razor.dll
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\WebApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\WebApp\bin\System.Web.Webpages.dll
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\WebApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\WebApp\bin\BusinessLogic.pdb
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\WebApp\bin\DataAccess.pdb
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\WebApp\bin\EntityFramework.xml
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\WebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\WebApp\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\WebApp\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\WebApp\bin\Microsoft.Owin.xml
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\WebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\WebApp\bin\Microsoft.Owin.Security.xml
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\WebApp\bin\Newtonsoft.Json.xml
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\WebApp\bin\System.Web.Razor.xml
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\WebApp\bin\System.Web.Webpages.xml
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\WebApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\WebApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\WebApp\bin\System.Web.Helpers.xml
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\WebApp\bin\System.Web.Mvc.xml
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\WebApp\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\WebApp\obj\Debug\WebApp.dll
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\WebApp\obj\Debug\WebApp.pdb

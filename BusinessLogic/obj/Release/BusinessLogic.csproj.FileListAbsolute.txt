@@ -1,0 +1,12 @@
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\BusinessLogic\bin\Release\BusinessLogic.dll.config
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\BusinessLogic\bin\Release\BusinessLogic.dll
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\BusinessLogic\bin\Release\BusinessLogic.pdb
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\BusinessLogic\bin\Release\DataAccess.dll
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\BusinessLogic\bin\Release\EntityFramework.dll
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\BusinessLogic\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\BusinessLogic\bin\Release\DataAccess.pdb
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\BusinessLogic\bin\Release\EntityFramework.xml
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\BusinessLogic\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\BusinessLogic\obj\Release\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\BusinessLogic\obj\Release\BusinessLogic.dll
+C:\Users\suleyman.ozbek\Desktop\ChatSolution\BusinessLogic\obj\Release\BusinessLogic.pdb
