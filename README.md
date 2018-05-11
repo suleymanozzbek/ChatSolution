@@ -9,4 +9,4 @@ After prepare the database, you need to update the entity in the DataAccess laye
 
 You need to update the connectionString in your app.config or web.config files located on other layers after the entitiy update.
 
-You can visit to http://readkit.xyz/ for demo.
+You can visit http://readkit.xyz/ for demo.
